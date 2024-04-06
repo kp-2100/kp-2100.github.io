@@ -70,7 +70,3 @@ March 2021
 - Assisted professor as a Graduate Course Producer for the subject of Information Retrieval and Web Search Engines; designed and reviewed assignments, exams, and hosted office hours to help students with assignments.
 - Led the technical team of 10 members at Computer Society of India (CSI) in organizing technical & coding events at CHARUSAT University, collaborated with cross-functional teams to ensure seamless execution of events.
 - Volunteered at Cognizance in devising innovative puzzles using Data Structures & Algorithms in a team of 5.
-
----
-
-Feel free to adjust the design and formatting as per your preferences.
