@@ -14,16 +14,11 @@ I am a passionate and innovative software engineer with a focus on frontend deve
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40">
 </p>
 
 ### Experience
