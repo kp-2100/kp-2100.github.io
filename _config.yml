@@ -1,1 +1,11 @@
-
+title: Kuntal Parikh
+logo: "/profile.png?raw=true" 
+description: > 
+ Software Engineering Enthusiast
+  <br><br>
+  <a href="mailto:kuntalparikh21@gmail.com">kuntalparikh21@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/kuntalparikh21/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/kp-2100/">Gihub</a> 
+theme: jekyll-theme-minimal
