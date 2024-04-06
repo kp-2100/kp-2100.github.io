@@ -1,10 +1,6 @@
 # kp-2100.github.io
 Personal Website
 
-Certainly! Here's the revised and customized content for your resume and portfolio:
-
----
-
 ## Portfolio
 
 Welcome to Kuntal Parikh's Portfolio!
